@@ -8,6 +8,7 @@ const App = () => {
       <main>
         <h2>Welcome to My React App</h2>
         <p>This is the main content of the app.</p>
+        <button>ankit</button>
       </main>
     </div>
   );
