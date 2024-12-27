@@ -9,6 +9,7 @@ const App = () => {
         <h2>Welcome to My React App</h2>
         <p>This is the main content of the app.</p>
         <button>ankit</button>
+        <button>harsha</button>
       </main>
     </div>
   );
