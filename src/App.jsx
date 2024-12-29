@@ -10,6 +10,7 @@ const App = () => {
         <p>This is the main content of the app.</p>
         <button>enter</button>
         <button>add</button>
+        <button>like</button>
       </main>
     </div>
   );
