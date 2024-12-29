@@ -18,6 +18,10 @@ const Header = () => {
           {" "}
           Mail
         </a>
+        <a href="#mail" style={styles.link}>
+          {" "}
+          Controlls
+        </a>
       </nav>
     </header>
   );
