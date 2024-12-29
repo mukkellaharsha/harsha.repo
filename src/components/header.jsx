@@ -14,6 +14,10 @@ const Header = () => {
         <a href="#contact" style={styles.link}>
           Contact
         </a>
+        <a href="#mail" style={styles.link}>
+          {" "}
+          Mail
+        </a>
       </nav>
     </header>
   );
@@ -24,16 +28,17 @@ const styles = {
     display: "flex",
     justifyContent: "space-between",
     alignItems: "center",
-    padding: "1rem",
+    padding: "2rem",
     backgroundColor: "#282c34",
     color: "white",
+    marginTop: "0",
   },
   title: {
     margin: 0,
   },
   nav: {
     display: "flex",
-    gap: "1rem",
+    gap: "3rem",
   },
   link: {
     color: "white",
